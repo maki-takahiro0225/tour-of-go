@@ -154,5 +154,4 @@ func main() {
 	TypeInference()
 	Constants()
 	NumericConstants()
-	fmt.Println("-----------Basic Tours-----------")
 }
